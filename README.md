@@ -135,4 +135,13 @@ Based on the analysis:
 
 ---
 
-# 📂 Project Structure
+# 🚀 Skills Demonstrated
+
+✔ Data Cleaning  
+✔ Data Transformation  
+✔ Exploratory Data Analysis  
+✔ SQL Querying  
+✔ Data Visualization  
+✔ Business Insight Generation  
+✔ Data Storytelling  
+✔ Analytical Problem Solving  
